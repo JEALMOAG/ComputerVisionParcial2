@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon May  6 14:01:05 2024
-
-@author: jama2
+Created on 01 May 10:01:05 2024
+@author: Jesus Alejandro Montes Aguila
 """
 
 import cv2
