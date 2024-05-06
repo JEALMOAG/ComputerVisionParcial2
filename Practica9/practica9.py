@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on 01 May 14:23:40 2024
+@author: Jesus Alejandro Montes Aguila
+"""
 import cv2
 import numpy as np
 
